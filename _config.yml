@@ -1,0 +1,28 @@
+name: Thomas Stuenkel
+favicon: null
+layout_spectrum: 0.3264072360470891
+typography_spectrum: 0.4471258423291147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1875416690018028
+  lightness: 0.869814254110679
+  saturation: 0.12717102491296828
+  rhythmicContrast: 0.9605114092119038
+purpose: []
